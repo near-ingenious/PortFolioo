@@ -75,7 +75,7 @@ export const publications = [
     venue: "Taylor & Francis",
     year: "Accepted",
     status: "Book Chapter",
-    coauthor: "Jarin Alam Prity et al.",
+    coauthor: "Ahmad Wasim Wardak, Misbah Wardak, Jarin Alam Prity, Sahel Mayar ",
     description: "Co-authored a book chapter on AI-driven multimodal fusion for non-invasive mental health diagnosis. Employed zero-shot learning to generalize across unseen emotional and behavioral states.",
   },
   {
@@ -83,7 +83,7 @@ export const publications = [
     venue: "Springer",
     year: "2024",
     status: "Book Chapter",
-    coauthor: "Jarin Alam Prity et al.",
+    coauthor: "Jarin Alam Prity & Ahmad Wasim Wardak",
     description: "Analyzed the impact of reduced human interaction in AI-powered educational ecosystems, exploring the ethical and emotional implications of replacing traditional learning with AI tutors.",
   },
 ];
